@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px
+}
+
+header, footer {
+    background-color: #f0f4f8;
+}
+
+.site-title {
+    color: #2b6cb0
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
+
+.hobby-list {
+    list-style-type: square;
+}
+
