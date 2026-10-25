@@ -19,14 +19,14 @@ body {
 }
 
 .formbox {
-  width: 100%;
+  width: 75%;
   height: 50px;
   padding: 10px;
   font-size: 18px;
 }
 
 .big-formbox {
-  width: 100%;
+  width: 75%;
   height: 200px;
   padding: 10px;
   font-size: 18px;
