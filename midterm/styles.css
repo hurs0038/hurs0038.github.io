@@ -11,3 +11,9 @@
   transform: translate(-50%, -50%);
   font-size: 50px;
 }
+
+body {
+  border-inline: 25px solid #aad4cf; /* Adds a 5px solid border to left and right */
+  margin: 0;                        /* Removes default browser margins */
+  min-height: 100vh;                /* Ensures the border spans the full viewport height */
+}
