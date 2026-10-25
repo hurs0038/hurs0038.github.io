@@ -24,3 +24,10 @@ body {
   padding: 10px;
   font-size: 18px;
 }
+
+.big-formbox {
+  width: 100%;
+  height: 200px;
+  padding: 10px;
+  font-size: 18px;
+}
